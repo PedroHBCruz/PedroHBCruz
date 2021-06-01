@@ -1,4 +1,4 @@
-# May the heavens smile on you today.! 
+# May the heavens smile on you today! 
 Welcome to my profile. I hope I can help you today. <br>
 My name is <b>Pedro Cruz</b>, nice to meet you.
 
