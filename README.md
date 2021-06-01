@@ -16,6 +16,7 @@ My name is <b>Pedro Cruz</b>, nice to meet you.
 <code><img height="40" src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png"></code>
 <code><img height="40" src="https://logospng.org/download/java/logo-java-1024.png"></code>
 <code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"></code>
 ## My Github Status:
 <div align="center">
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pedrohbcruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
