@@ -1,8 +1,5 @@
 # Hello, welcome💥
-- I am Brazilian
-- I graduated
-- I currently
-- I 
+- I am Pedro Cruz
 ## The technologies I am familiar with are👇
 <code><img height="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png"></code>
 <code><img height="40" src="https://terminalroot.com.br/assets/img/css/css.png"></code>
