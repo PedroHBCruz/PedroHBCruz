@@ -1,5 +1,5 @@
-# Hello, welcome💥
-- I am Pedro Cruz
+# Hello, welcom
+- 👋 Hi, I’m @PedroHBCruz
 
 ## My Github Status:
 <div align="center">
