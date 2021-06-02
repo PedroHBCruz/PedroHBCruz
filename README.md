@@ -4,6 +4,8 @@ My name is <b>Pedro Cruz</b>, nice to meet you.
 
 - Currently doing **Systems for Internet** at the Federal Institute of Mato Grosso - IFMT.
 
+- I graduated in IT technician in 2017 - IFMT.
+
 - I'm working on the State Government of Mato Grosso as an intern in **Full-stack Development**.
 
 ## **"I can do all things through Christ who strengthens me"**
