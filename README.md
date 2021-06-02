@@ -17,7 +17,7 @@ My name is <b>Pedro Cruz</b>, nice to meet you.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png"></code>
 <code><img height="40" src="https://logospng.org/download/java/logo-java-1024.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"></code>
 <code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"></code>
 ## My Github Status:
