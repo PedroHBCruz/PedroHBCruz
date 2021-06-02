@@ -25,6 +25,7 @@ My name is <b>Pedro Cruz</b>, nice to meet you.
  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohbcruz&layout=compact&langs_count=16&theme=tokyonight"/>
  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
 </div>
+
 ## My Social Networks:
 <div>
   <a href="https://www.linkedin.com/in/pedro-cruz-a679621a5/" target="_blank">
