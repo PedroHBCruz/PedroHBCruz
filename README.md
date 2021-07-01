@@ -23,6 +23,7 @@ My name is <b>Pedro Cruz</b>, nice to meet you.
 <div align="center">
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pedrohbcruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohbcruz&layout=compact&langs_count=16&theme=tokyonight"/>
+ ![Pedrohbcruz Status](https://github-readme-stats.vercel.app/api?username=pedrohbcruz&show_icons=true)
  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
